@@ -1,0 +1,5 @@
+type: CoreBlock
+health: 3500
+size: 2
+
+unitType: poly
